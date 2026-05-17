@@ -1,0 +1,8 @@
+.container {
+  max-width: 900px;
+  margin: 24px auto;
+}
+
+h1 {
+  color: #333;
+}
